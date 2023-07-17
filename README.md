@@ -2,7 +2,6 @@
 A curated list of generative AI-focused research paper readings, author interviews, and just papers at the cutting edge of generative AI; contributions welcome.
 
 1. [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://www.youtube.com/watch?v=BswvaWZdWw4)
-2. [One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning](https://arxiv.org/pdf/2306.07967.pdf)
 3. [HyDE: Precise Zero-Shot Dense Retrieval without Relevance Labels](https://arize.com/blog/hyde-paper-reading-and-discussion/)
 4. [Voyager: An Open-Ended Embodied Agent with LLMs](https://www.youtube.com/watch?v=BU3w_AbCEbA)
 5. [Retrieval Augmented Generation](https://www.youtube.com/watch?v=uCy9VmO8n18)
