@@ -12,5 +12,3 @@ A curated list of generative AI-focused research paper readings, author intervie
 9. [LIMA: Less Is More for Alignment](https://www.youtube.com/watch?v=TCAEWap9mSQ)
 10. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://www.deeppapers.dev/2112256/12245498-hungry-hungry-hippos-h3)
 11. [Reinforcement Learning with Human Feedback](https://www.deeppapers.dev/2112256/12070514-chatgpt-and-instructgpt-aligning-language-models-to-human-intention)
-
-
