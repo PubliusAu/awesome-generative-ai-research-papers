@@ -1,7 +1,8 @@
 # awesome-generative-ai-research-papers
-A curated list of generative AI-focused research paper readings, author interviews, and just papers at the cutting edge of generative AI; contributions welcome.
+A curated list of generative AI research paper readings and author interviews at the cutting edge of generative AI; contributions welcome.
 
-1. [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://www.youtube.com/watch?v=BswvaWZdWw4)
+1. [Lost in the Middle: How Language Models Use Long Contexts](https://www.youtube.com/watch?v=hBgzpw11-AQ)
+2. [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://www.deeppapers.dev/2112256/13264631-orca-progressive-learning-from-complex-explanation-traces-of-gpt-4)
 3. [HyDE: Precise Zero-Shot Dense Retrieval without Relevance Labels](https://arize.com/blog/hyde-paper-reading-and-discussion/)
 4. [Voyager: An Open-Ended Embodied Agent with LLMs](https://www.youtube.com/watch?v=BU3w_AbCEbA)
 5. [Retrieval Augmented Generation](https://www.youtube.com/watch?v=uCy9VmO8n18)
@@ -9,5 +10,5 @@ A curated list of generative AI-focused research paper readings, author intervie
 7. [LoRA: Low-Rank Adaptation of Large Language Models](https://www.youtube.com/watch?v=lixMONUAjfs)
 8. [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://arize.com/blog/drag-your-gan-interactive-point-based-manipulation-on-the-generative-image-manifold-paper/)
 9. [LIMA: Less Is More for Alignment](https://www.youtube.com/watch?v=TCAEWap9mSQ)
-10. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://www.deeppapers.dev/2112256/12245498-hungry-hungry-hippos-h3)
+10. [State Space Models](https://www.deeppapers.dev/2112256/12245498-hungry-hungry-hippos-h3)
 11. [Reinforcement Learning with Human Feedback](https://www.deeppapers.dev/2112256/12070514-chatgpt-and-instructgpt-aligning-language-models-to-human-intention)
